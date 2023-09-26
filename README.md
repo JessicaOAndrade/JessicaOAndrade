@@ -1,4 +1,5 @@
-- 👋 # Jessica's Presentation
+- 👋
+-  # Jessica's Presentation
 
 ## About Me
 Hello World! My name is Jessica, and I'm 32 years old. I'm a student of Commercial Management, Big Data, and Business Analytics. I'm passionate about data analysis, and I'm currently interning in the Data & Analytics field.
